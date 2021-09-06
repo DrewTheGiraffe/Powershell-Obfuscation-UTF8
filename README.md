@@ -2,7 +2,7 @@
 String Obfuscation for [.ps1 | .ps1m] scripts
 
 Quick Bio:
-Hello, my name is Drew. I am a member of the U.S. Army Active duty force. I have been writing scripts for "PS" for the last year, if you are a advanced developer and have any tips for me please let me know. If you are new welcome! I hope this benefits people and promotes security with in your organization or other projects from the future. This is my personal Git-hub where I work on network programming projects. Please feel free to check out my other work available from the link on my Git-hub home page. 
+Hello, my name is Drew. I am a member of the U.S. Army Active duty force. I have been writing scripts for "PS" for the last year, if you are an advanced developer and have any tips for me please let me know. If you are new welcome! I hope this benefits people and promotes security with in your organization or other projects from the future. This is my personal Git-hub where I work on network programming projects. Please feel free to check out my other work available from the link on my Git-hub home page. 
 
 
 Obfuscation Write-up: 
